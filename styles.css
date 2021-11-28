@@ -1,0 +1,46 @@
+body{
+    background-image: url("img/25558.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+main {
+    text-align: left;
+    margin: auto;
+    width: 70%;
+    color: white;
+    background-color: rgb(0, 0, 0) ;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    padding-left: 20px ;
+    padding-right: 20px ;
+    padding-bottom: 30%;
+    padding-top: 5%;
+}
+
+h1 {
+    border-bottom: 4px solid rgb(255, 248, 248);
+    text-align: center;
+    padding: 1px;
+} 
+
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    text-align: center;
+} 
+
+footer {
+    background-color: rgb(2, 2, 2)  !important;
+}
+
+h6 {
+    color: white;
+}
+
