@@ -9,7 +9,7 @@ body{
 }
 
 main {
-    text-align: left;
+    text-align: center;
     margin: auto;
     width: 70%;
     color: white;
@@ -38,9 +38,10 @@ main img {
 
 footer {
     background-color: rgb(2, 2, 2)  !important;
+    padding-bottom: 2%;
 }
 
-h6 {
-    color: white;
-}
+h4 {
+    color: white
 
+}
